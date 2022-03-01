@@ -1,1 +1,1 @@
-# .github
+# Package Wizard
